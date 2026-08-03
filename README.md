@@ -15,9 +15,9 @@ This repository contains the numerical models, data processing scripts, and anal
 The repository includes:
 
 - A one-dimensional thermal model used to estimate realistic temperature profiles for lunar regolith.
-- Thermophysical property parameterisations for dry and icy lunar regolith.
+- Models for thermal, structural and radiative properties of dry and icy lunar regolith.
 - A radiative transfer model for calculating microwave brightness temperatures.
-- Statistical correlation and sensitivity analyses used to quantify the influence of regolith properties on thermal and electromagnetic observations.
+- Statistical correlation and sensitivity analyses used to quantify the influence of regolith properties on brightness temperature observations.
 
 The scripts reproduce the analysis and figures presented in the manuscript (Figures 1–13).
 
