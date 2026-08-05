@@ -3,7 +3,9 @@
 Supporting code for the manuscript:
 
 **"Variability of Lunar Regolith Properties and Implications for Interpreting Brightness Temperature Variations"**  
-Carlos Gómez de Olea Ballester  
+
+**Corresponding Author**: Carlos Gómez de Olea Ballester  - carlos.olea@tum.de
+
 Submitted to *Journal of Geophysical Research: Planets* (submitted: TBD)
 
 ---
