@@ -1,5 +1,7 @@
 # JGR_LunarRegolithPropertiesVariability
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21834680.svg)](https://doi.org/10.5281/zenodo.21834680)
+
 Supporting code for the manuscript:
 
 **"Variability of Lunar Regolith Properties and Implications for Interpreting Brightness Temperature Variations"**  
