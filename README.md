@@ -6,7 +6,7 @@ Supporting code for the manuscript:
 
 **Corresponding Author**: Carlos Gómez de Olea Ballester  - carlos.olea@tum.de
 
-Submitted to *Journal of Geophysical Research: Planets* (submitted: TBD)
+Submitted to *Journal of Geophysical Research: Planets*
 
 ---
 
@@ -43,13 +43,11 @@ Contains the radiative property parameterisations and microwave radiative transf
 
 Jupyter notebook used to run the thermal model simulations.
 
-The notebook performs the iterations required to generate the temperature profiles used in the manuscript and reproduces **Figure 1**.
-
 ---
 
 ### `generate_figures.ipynb`
 
-Jupyter notebook containing the statistical analysis. Generates **Figures 2–13** presented in the manuscript.
+Jupyter notebook containing the statistical analysis. Generates **Figures 1–11** presented in the manuscript.
 
 ---
 
